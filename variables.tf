@@ -40,6 +40,10 @@ variable "project" {
   default     = "OneQi"
 }
 
+variable "function0" {
+  description = "The project fuction"
+  default     = "Standalone"
+}
 
 
 
